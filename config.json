@@ -2,6 +2,7 @@
     "name": "GRIT-S: Duckworth's Short Grit Scale Survey",
     "template":"survey",
     "exp_id": "grit-scale-survey",
+    "url": "https://github.com/expfactory-experiments/grit-scale-survey",
     "cognitive_atlas_task_id": "trm_56a9166421494",
     "contributors": [
              "Zeynep Enkavi",
